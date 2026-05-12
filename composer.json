@@ -8,7 +8,7 @@
     ],
     "license": "MIT",
     "require": {
-        "php": "^8.0.2",
+        "php": "^8.2",
         "barryvdh/laravel-dompdf": "*",
         "doctrine/dbal": "*",
         "guzzlehttp/guzzle": "^7.2",
