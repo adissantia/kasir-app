@@ -11,6 +11,7 @@
     "require": {
         "php": "^8.4",
         "ext-gd": "*",
+        "ext-zip": "*",
         "barryvdh/laravel-dompdf": "^3.0",
         "doctrine/dbal": "^4.0",
         "guzzlehttp/guzzle": "^7.2",
